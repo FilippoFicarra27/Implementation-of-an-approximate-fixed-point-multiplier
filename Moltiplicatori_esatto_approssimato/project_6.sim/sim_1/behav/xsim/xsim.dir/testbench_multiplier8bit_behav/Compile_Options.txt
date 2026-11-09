@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "testbench_multiplier8bit_behav" "xil_defaultlib.testbench_multiplier8bit" -log "elaborate.log" 

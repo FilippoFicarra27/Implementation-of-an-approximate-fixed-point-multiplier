@@ -1,0 +1,200 @@
+Valore di A: 254
+Valore di B: 254
+Risultato esatto: 64516
+Risultato approssimato: 64512
+Valore di A: 152
+Valore di B: 222
+Risultato esatto: 33744
+Risultato approssimato: 33852
+Valore di A: 155
+Valore di B: 60
+Risultato esatto: 9300
+Risultato approssimato: 9228
+Valore di A: 81
+Valore di B: 169
+Risultato esatto: 13689
+Risultato approssimato: 13853
+Valore di A: 8
+Valore di B: 47
+Risultato esatto: 376
+Risultato approssimato: 572
+Valore di A: 228
+Valore di B: 206
+Risultato esatto: 46968
+Risultato approssimato: 47164
+Valore di A: 141
+Valore di B: 82
+Risultato esatto: 11562
+Risultato approssimato: 11630
+Valore di A: 167
+Valore di B: 107
+Risultato esatto: 17869
+Risultato approssimato: 17925
+Valore di A: 58
+Valore di B: 5
+Risultato esatto: 290
+Risultato approssimato: 446
+Valore di A: 51
+Valore di B: 213
+Risultato esatto: 10863
+Risultato approssimato: 10895
+Valore di A: 5
+Valore di B: 70
+Risultato esatto: 350
+Risultato approssimato: 574
+Valore di A: 21
+Valore di B: 164
+Risultato esatto: 3444
+Risultato approssimato: 3612
+Valore di A: 13
+Valore di B: 140
+Risultato esatto: 1820
+Risultato approssimato: 1980
+Valore di A: 36
+Valore di B: 142
+Risultato esatto: 5112
+Risultato approssimato: 5308
+Valore di A: 113
+Valore di B: 126
+Risultato esatto: 14238
+Risultato approssimato: 14350
+Valore di A: 152
+Valore di B: 83
+Risultato esatto: 12616
+Risultato approssimato: 12860
+Valore di A: 125
+Valore di B: 127
+Risultato esatto: 15875
+Risultato approssimato: 15747
+Valore di A: 67
+Valore di B: 191
+Risultato esatto: 12797
+Risultato approssimato: 12801
+Valore di A: 12
+Valore di B: 117
+Risultato esatto: 1404
+Risultato approssimato: 1472
+Valore di A: 160
+Valore di B: 130
+Risultato esatto: 20800
+Risultato approssimato: 21052
+Valore di A: 199
+Valore di B: 203
+Risultato esatto: 40397
+Risultato approssimato: 40453
+Valore di A: 82
+Valore di B: 146
+Risultato esatto: 11972
+Risultato approssimato: 12184
+Valore di A: 67
+Valore di B: 52
+Risultato esatto: 3484
+Risultato approssimato: 3596
+Valore di A: 11
+Valore di B: 93
+Risultato esatto: 1023
+Risultato approssimato: 1039
+Valore di A: 214
+Valore di B: 158
+Risultato esatto: 33812
+Risultato approssimato: 33920
+Valore di A: 217
+Valore di B: 112
+Risultato esatto: 24304
+Risultato approssimato: 24460
+Valore di A: 242
+Valore di B: 137
+Risultato esatto: 33154
+Risultato approssimato: 33342
+Valore di A: 235
+Valore di B: 206
+Risultato esatto: 48410
+Risultato approssimato: 48514
+Valore di A: 31
+Valore di B: 188
+Risultato esatto: 5828
+Risultato approssimato: 5772
+Valore di A: 86
+Valore di B: 100
+Risultato esatto: 8600
+Risultato approssimato: 8764
+Valore di A: 76
+Valore di B: 6
+Risultato esatto: 456
+Risultato approssimato: 700
+Valore di A: 50
+Valore di B: 27
+Risultato esatto: 1350
+Risultato approssimato: 1434
+Valore di A: 234
+Valore di B: 229
+Risultato esatto: 53586
+Risultato approssimato: 53694
+Valore di A: 167
+Valore di B: 38
+Risultato esatto: 6346
+Risultato approssimato: 6402
+Valore di A: 73
+Valore di B: 6
+Risultato esatto: 438
+Risultato approssimato: 702
+Valore di A: 139
+Valore di B: 59
+Risultato esatto: 8201
+Risultato approssimato: 8193
+Valore di A: 2
+Valore di B: 232
+Risultato esatto: 464
+Risultato approssimato: 700
+Valore di A: 188
+Valore di B: 179
+Risultato esatto: 33652
+Risultato approssimato: 33792
+Valore di A: 90
+Valore di B: 77
+Risultato esatto: 6930
+Risultato approssimato: 7102
+Valore di A: 152
+Valore di B: 152
+Risultato esatto: 23104
+Risultato approssimato: 23356
+Valore di A: 214
+Valore di B: 204
+Risultato esatto: 43656
+Risultato approssimato: 43836
+Valore di A: 153
+Valore di B: 222
+Risultato esatto: 33966
+Risultato approssimato: 33934
+Valore di A: 148
+Valore di B: 13
+Risultato esatto: 1924
+Risultato approssimato: 2104
+Valore di A: 199
+Valore di B: 18
+Risultato esatto: 3582
+Risultato approssimato: 3650
+Valore di A: 206
+Valore di B: 41
+Risultato esatto: 8446
+Risultato approssimato: 8578
+Valore di A: 136
+Valore di B: 197
+Risultato esatto: 26792
+Risultato approssimato: 27068
+Valore di A: 249
+Valore di B: 115
+Risultato esatto: 28635
+Risultato approssimato: 28559
+Valore di A: 76
+Valore di B: 6
+Risultato esatto: 456
+Risultato approssimato: 700
+Valore di A: 222
+Valore di B: 205
+Risultato esatto: 45510
+Risultato approssimato: 45570
+Valore di A: 132
+Valore di B: 243
+Risultato esatto: 32076
+Risultato approssimato: 32240

@@ -1,0 +1,15 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2022.2 (win64) Build 3671981 Fri Oct 14 05:00:03 MDT 2022
+| Date         : Wed Sep 18 10:05:57 2024
+| Host         : DESKTOP-B7S34R0 running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file Approximate_Multiplier_8bit_bus_skew_routed.rpt -pb Approximate_Multiplier_8bit_bus_skew_routed.pb -rpx Approximate_Multiplier_8bit_bus_skew_routed.rpx
+| Design       : Approximate_Multiplier_8bit
+| Device       : 7k70t-fbv676
+| Speed File   : -1  PRODUCTION 1.12 2017-02-17
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

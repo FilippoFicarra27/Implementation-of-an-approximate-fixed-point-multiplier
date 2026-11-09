@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "Approximate_Multiplier_8bit_behav" "xil_defaultlib.Approximate_Multiplier_8bit" -log "elaborate.log" 

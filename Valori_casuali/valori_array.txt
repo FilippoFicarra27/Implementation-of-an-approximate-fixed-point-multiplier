@@ -1,0 +1,200 @@
+Valore di A: 11111110
+Valore di B: 11111110
+Risultato esatto: 1111110000000100
+Risultato approssimato: 1111110000000000
+Valore di A: 10011000
+Valore di B: 11011110
+Risultato esatto: 1000001111010000
+Risultato approssimato: 1000010000111100
+Valore di A: 10011011
+Valore di B: 00111100
+Risultato esatto: 0010010001010100
+Risultato approssimato: 0010010000001100
+Valore di A: 01010001
+Valore di B: 10101001
+Risultato esatto: 0011010101111001
+Risultato approssimato: 0011011000011101
+Valore di A: 00001000
+Valore di B: 00101111
+Risultato esatto: 0000000101111000
+Risultato approssimato: 0000001000111100
+Valore di A: 11100100
+Valore di B: 11001110
+Risultato esatto: 1011011101111000
+Risultato approssimato: 1011100000111100
+Valore di A: 10001101
+Valore di B: 01010010
+Risultato esatto: 0010110100101010
+Risultato approssimato: 0010110101101110
+Valore di A: 10100111
+Valore di B: 01101011
+Risultato esatto: 0100010111001101
+Risultato approssimato: 0100011000000101
+Valore di A: 00111010
+Valore di B: 00000101
+Risultato esatto: 0000000100100010
+Risultato approssimato: 0000000110111110
+Valore di A: 00110011
+Valore di B: 11010101
+Risultato esatto: 0010101001101111
+Risultato approssimato: 0010101010001111
+Valore di A: 00000101
+Valore di B: 01000110
+Risultato esatto: 0000000101011110
+Risultato approssimato: 0000001000111110
+Valore di A: 00010101
+Valore di B: 10100100
+Risultato esatto: 0000110101110100
+Risultato approssimato: 0000111000011100
+Valore di A: 00001101
+Valore di B: 10001100
+Risultato esatto: 0000011100011100
+Risultato approssimato: 0000011110111100
+Valore di A: 00100100
+Valore di B: 10001110
+Risultato esatto: 0001001111111000
+Risultato approssimato: 0001010010111100
+Valore di A: 01110001
+Valore di B: 01111110
+Risultato esatto: 0011011110011110
+Risultato approssimato: 0011100000001110
+Valore di A: 10011000
+Valore di B: 01010011
+Risultato esatto: 0011000101001000
+Risultato approssimato: 0011001000111100
+Valore di A: 01111101
+Valore di B: 01111111
+Risultato esatto: 0011111000000011
+Risultato approssimato: 0011110110000011
+Valore di A: 01000011
+Valore di B: 10111111
+Risultato esatto: 0011000111111101
+Risultato approssimato: 0011001000000001
+Valore di A: 00001100
+Valore di B: 01110101
+Risultato esatto: 0000010101111100
+Risultato approssimato: 0000010111000000
+Valore di A: 10100000
+Valore di B: 10000010
+Risultato esatto: 0101000101000000
+Risultato approssimato: 0101001000111100
+Valore di A: 11000111
+Valore di B: 11001011
+Risultato esatto: 1001110111001101
+Risultato approssimato: 1001111000000101
+Valore di A: 01010010
+Valore di B: 10010010
+Risultato esatto: 0010111011000100
+Risultato approssimato: 0010111110011000
+Valore di A: 01000011
+Valore di B: 00110100
+Risultato esatto: 0000110110011100
+Risultato approssimato: 0000111000001100
+Valore di A: 00001011
+Valore di B: 01011101
+Risultato esatto: 0000001111111111
+Risultato approssimato: 0000010000001111
+Valore di A: 11010110
+Valore di B: 10011110
+Risultato esatto: 1000010000010100
+Risultato approssimato: 1000010010000000
+Valore di A: 11011001
+Valore di B: 01110000
+Risultato esatto: 0101111011110000
+Risultato approssimato: 0101111110001100
+Valore di A: 11110010
+Valore di B: 10001001
+Risultato esatto: 1000000110000010
+Risultato approssimato: 1000001000111110
+Valore di A: 11101011
+Valore di B: 11001110
+Risultato esatto: 1011110100011010
+Risultato approssimato: 1011110110000010
+Valore di A: 00011111
+Valore di B: 10111100
+Risultato esatto: 0001011011000100
+Risultato approssimato: 0001011010001100
+Valore di A: 01010110
+Valore di B: 01100100
+Risultato esatto: 0010000110011000
+Risultato approssimato: 0010001000111100
+Valore di A: 01001100
+Valore di B: 00000110
+Risultato esatto: 0000000111001000
+Risultato approssimato: 0000001010111100
+Valore di A: 00110010
+Valore di B: 00011011
+Risultato esatto: 0000010101000110
+Risultato approssimato: 0000010110011010
+Valore di A: 11101010
+Valore di B: 11100101
+Risultato esatto: 1101000101010010
+Risultato approssimato: 1101000110111110
+Valore di A: 10100111
+Valore di B: 00100110
+Risultato esatto: 0001100011001010
+Risultato approssimato: 0001100100000010
+Valore di A: 01001001
+Valore di B: 00000110
+Risultato esatto: 0000000110110110
+Risultato approssimato: 0000001010111110
+Valore di A: 10001011
+Valore di B: 00111011
+Risultato esatto: 0010000000001001
+Risultato approssimato: 0010000000000001
+Valore di A: 00000010
+Valore di B: 11101000
+Risultato esatto: 0000000111010000
+Risultato approssimato: 0000001010111100
+Valore di A: 10111100
+Valore di B: 10110011
+Risultato esatto: 1000001101110100
+Risultato approssimato: 1000010000000000
+Valore di A: 01011010
+Valore di B: 01001101
+Risultato esatto: 0001101100010010
+Risultato approssimato: 0001101110111110
+Valore di A: 10011000
+Valore di B: 10011000
+Risultato esatto: 0101101001000000
+Risultato approssimato: 0101101100111100
+Valore di A: 11010110
+Valore di B: 11001100
+Risultato esatto: 1010101010001000
+Risultato approssimato: 1010101100111100
+Valore di A: 10011001
+Valore di B: 11011110
+Risultato esatto: 1000010010101110
+Risultato approssimato: 1000010010001110
+Valore di A: 10010100
+Valore di B: 00001101
+Risultato esatto: 0000011110000100
+Risultato approssimato: 0000100000111000
+Valore di A: 11000111
+Valore di B: 00010010
+Risultato esatto: 0000110111111110
+Risultato approssimato: 0000111001000010
+Valore di A: 11001110
+Valore di B: 00101001
+Risultato esatto: 0010000011111110
+Risultato approssimato: 0010000110000010
+Valore di A: 10001000
+Valore di B: 11000101
+Risultato esatto: 0110100010101000
+Risultato approssimato: 0110100110111100
+Valore di A: 11111001
+Valore di B: 01110011
+Risultato esatto: 0110111111011011
+Risultato approssimato: 0110111110001111
+Valore di A: 01001100
+Valore di B: 00000110
+Risultato esatto: 0000000111001000
+Risultato approssimato: 0000001010111100
+Valore di A: 11011110
+Valore di B: 11001101
+Risultato esatto: 1011000111000110
+Risultato approssimato: 1011001000000010
+Valore di A: 10000100
+Valore di B: 11110011
+Risultato esatto: 0111110101001100
+Risultato approssimato: 0111110111110000
